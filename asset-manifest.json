@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/imen-portfolio/static/css/main.7f074c2b.css",
+    "main.js": "/imen-portfolio/static/js/main.68c45971.js",
+    "static/js/787.e44335c4.chunk.js": "/imen-portfolio/static/js/787.e44335c4.chunk.js",
+    "static/media/C1.png": "/imen-portfolio/static/media/C1.b4b1256bc8db50b8e4e4.png",
+    "static/media/CC3.png": "/imen-portfolio/static/media/CC3.0e68de1d70784d9c9418.png",
+    "static/media/Reacti.png": "/imen-portfolio/static/media/Reacti.f6b89d232c9bc9f828e5.png",
+    "static/media/imen.jpg": "/imen-portfolio/static/media/imen.97bc1655920658ccc43d.jpg",
+    "static/media/css3.webp": "/imen-portfolio/static/media/css3.8a9cb64261d07da57f4f.webp",
+    "static/media/C2.png": "/imen-portfolio/static/media/C2.203bd52cf66318d330d1.png",
+    "static/media/html5.webp": "/imen-portfolio/static/media/html5.7296a57e7e1593d080fa.webp",
+    "static/media/tail.png": "/imen-portfolio/static/media/tail.fc2637ede3625ea04c74.png",
+    "static/media/mysq.png": "/imen-portfolio/static/media/mysq.4676ad983d6bd3e9fac9.png",
+    "static/media/c4.png": "/imen-portfolio/static/media/c4.1aa2ad23e0d140e34f34.png",
+    "index.html": "/imen-portfolio/index.html",
+    "main.7f074c2b.css.map": "/imen-portfolio/static/css/main.7f074c2b.css.map",
+    "main.68c45971.js.map": "/imen-portfolio/static/js/main.68c45971.js.map",
+    "787.e44335c4.chunk.js.map": "/imen-portfolio/static/js/787.e44335c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f074c2b.css",
+    "static/js/main.68c45971.js"
+  ]
+}
